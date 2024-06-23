@@ -6,6 +6,11 @@ Diretório utilizado para estudos em automação de testes
 * cypress@12.10.0
 * Alura Pic
 
+#Cypress adopet
+* Versão Node v20.10.0.
+* cypress@13.6.4
+* Projeto Adopet =>  https://adopet-frontend-cypress.vercel.app
+
 #Robot
 * robotframework-seleniumlibrary
 * geckodriver
